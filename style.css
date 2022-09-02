@@ -1,0 +1,13 @@
+html{
+    font-size: 22px;
+}
+body{
+    background-color: aliceblue;
+    color: #333;
+}
+table, tr,td,th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 0.5rem;
+}
